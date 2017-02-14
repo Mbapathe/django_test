@@ -25,7 +25,7 @@ SECRET_KEY = '(0l8if2k#+8#1v)vjjcj%51)r(c&bfdly(t^#(r9on6s589*0p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mbapathe.pythonanywhere.com']
 
 
 # Application definition
